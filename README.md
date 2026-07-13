@@ -1,4 +1,4 @@
-# Nuclei-Template - Credential Detection
+# Nuclei Template - Credential Detection
 
 **I'm aware it does not cover ALL types of secrets. Just the ones I come across most often.**
 
