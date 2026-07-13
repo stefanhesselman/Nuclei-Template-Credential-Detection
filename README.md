@@ -4,7 +4,7 @@
 
 A nuclei template that looks for specific credentials or secrets in the front-end markup of web applications. It looks for hardcoded credentials, API keys, authorization bearer tokens, cloud credentials and more.
 
-A few years back, I've written this template as a result from past experience - these are the most common secrets and credentials I have found. Since Nuclei has a more up-to-date database with Nuclei templates regarding this type of exposure, this is now here for learning purposes.
+A few years back, I've written this template as a result from past experience with credential detection - these are the most common secrets and credentials I have found. Since Nuclei has a more up-to-date database with Nuclei templates regarding this type of exposure, this is now here for learning purposes.
 
 Cloud, payment, VCS and CI, messaging apps, private keys, JWTs, Firebase are supported. It also looks for secrets based on phrases such as 'secret','accessToken', 'apikey' and 'password'.
 
